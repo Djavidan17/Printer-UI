@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Router",
+        "ip": "192.168.10.1",
+        "weblogin": "admin",
+        "webpassword": "1209"
+    }
+]
